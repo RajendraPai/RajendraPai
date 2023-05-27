@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RajendraPai
-- 👀 I’m interested in VBA and Python 
+- 👀 I’m fairly proficient in Excel VBA and other MS Office VBA 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Excel VBA
 - 📫 How to reach me ...rspai9@gmail.com 
 
 <!---
